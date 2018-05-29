@@ -10,3 +10,7 @@ quartz
 - 触发器：Trigger
     - SimpleTrigger
     - CronTrigger
+    
+# [直接使用](https://github.com/scutuyu/quartz/blob/master/src/test/java/com/tuyu/QuartzTest.java)
+
+# [与Spring集成](https://github.com/scutuyu/quartz/blob/master/spring-integrate-quartz/src/test/java/com/tuyu/spring/job/SimpleJobTest.java)
